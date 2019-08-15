@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteDemoUI", "SqliteDemoUI\SqliteDemoUI.csproj", "{64EC12E7-F84A-49CA-84A7-F6E5C7EA17C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteDemoLibrary", "SqliteDemoLibrary\SqliteDemoLibrary.csproj", "{B5AB4E12-BD81-40D3-9D0E-8D9A309C4826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64EC12E7-F84A-49CA-84A7-F6E5C7EA17C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EC12E7-F84A-49CA-84A7-F6E5C7EA17C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EC12E7-F84A-49CA-84A7-F6E5C7EA17C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EC12E7-F84A-49CA-84A7-F6E5C7EA17C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AB4E12-BD81-40D3-9D0E-8D9A309C4826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AB4E12-BD81-40D3-9D0E-8D9A309C4826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AB4E12-BD81-40D3-9D0E-8D9A309C4826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AB4E12-BD81-40D3-9D0E-8D9A309C4826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37549FB-25B6-45F6-8615-82271CE6A7C6}
+	EndGlobalSection
+EndGlobal
